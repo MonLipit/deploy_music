@@ -28,11 +28,11 @@ function Footer() {
         },
         {
             icon:'fab fa-github',
-            href:'https://github.com/buihuuthinh456'
+            href:'https://github.com/MonLipit'
         },
         {
             icon:'fab fa-youtube',
-            href:'https://www.youtube.com/channel/UCUOeedE6Cxh_9xUlk75AidA'
+            href:'youtube.com/c/MixiGamingofficial'
         },
     ]
     return (
@@ -55,16 +55,16 @@ function Footer() {
             <div className="footer-location">
                 <div className="footer-location__item">
                     <i className="fas fa-map-marker-alt"></i>
-                    <p>Tòa Nhà 678 Tower, DUT city, T3Class, Lấp Vò, Đồng Tháp</p>
+                    <p>Khu Đô thị Linh Đàm, Hoàng Mai, Hà Nội</p>
                 </div>
                 
                 <div className="footer-location__item">
                     <i className="fas fa-phone"></i>
-                    <p>(028) 3868 7979</p>
+                    <p>0979.759.862</p>
                 </div>
             </div>
             <div className="footer-copyright">
-                <p>Code by BuiHuuThinh@Chúc NCT ngày càng thành công</p>
+                <p>Copy by MonLipit</p>
             </div>
         </div>
     )

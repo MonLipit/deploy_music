@@ -24,7 +24,7 @@ function Footer() {
     const social = [
         {
             icon:'fab fa-facebook',
-            href:'https://www.facebook.com/bui.thinh.520/'
+            href:'https://www.facebook.com/profile.php?id=100004727944976'
         },
         {
             icon:'fab fa-github',

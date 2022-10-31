@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deploy_music/static/css/main.155f7c29.chunk.css",
-    "main.js": "/deploy_music/static/js/main.c9f7d8e0.chunk.js",
-    "main.js.map": "/deploy_music/static/js/main.c9f7d8e0.chunk.js.map",
+    "main.js": "/deploy_music/static/js/main.63af9bef.chunk.js",
+    "main.js.map": "/deploy_music/static/js/main.63af9bef.chunk.js.map",
     "runtime-main.js": "/deploy_music/static/js/runtime-main.d8b11257.js",
     "runtime-main.js.map": "/deploy_music/static/js/runtime-main.d8b11257.js.map",
     "static/css/2.925c3307.chunk.css": "/deploy_music/static/css/2.925c3307.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/main.155f7c29.chunk.css.map": "/deploy_music/static/css/main.155f7c29.chunk.css.map",
     "static/js/2.de3bd0d2.chunk.js.LICENSE.txt": "/deploy_music/static/js/2.de3bd0d2.chunk.js.LICENSE.txt",
     "static/media/YourSmileLive.2e7fde35.mp3": "/deploy_music/static/media/YourSmileLive.2e7fde35.mp3",
-    "static/media/logo.912cf6dd.jpg": "/deploy_music/static/media/logo.912cf6dd.jpg",
+    "static/media/logo_monlipit.912cf6dd.jpg": "/deploy_music/static/media/logo_monlipit.912cf6dd.jpg",
     "static/media/slick-theme.css": "/deploy_music/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
@@ -21,6 +21,6 @@
     "static/css/2.925c3307.chunk.css",
     "static/js/2.de3bd0d2.chunk.js",
     "static/css/main.155f7c29.chunk.css",
-    "static/js/main.c9f7d8e0.chunk.js"
+    "static/js/main.63af9bef.chunk.js"
   ]
 }

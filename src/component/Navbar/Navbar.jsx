@@ -5,7 +5,7 @@ import FacebookLogin from 'react-facebook-login/dist/facebook-login-render-props
 
 
 import InforUser from '../InforUser/InforUser';
-import logo from '../../assets/img/logo.jpg';
+import logo from '../../assets/img/logo_monlipit.jpg';
 
 
 
